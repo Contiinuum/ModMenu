@@ -1,2 +1,2 @@
-# ModPanel
-A Plugin to have all mods together on one menu
+# ModMenu
+A Plugin to have all mods together in one menu
